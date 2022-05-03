@@ -2,7 +2,7 @@
 
 [WHOIS History | Check domain history ownership | WhoisXML API](https://whois-history.whoisxmlapi.com/)
 
-### WHOIS history tools to check domain name ownership history
+## WHOIS history tools to check domain name ownership history
 
 We designed our WHOIS history product line for easy and varied access to our archive of 14.3B+ WHOIS records with domain history ownership data via Lookup, API calls, or Database Download.
 
@@ -14,7 +14,7 @@ WHOIS History API is a part of our Domain Research Suite (DRS). Requests to the 
 
 
 
-# DDomain Status, Augmentations
+## Domain Status, Augmentations
 > 
 > In 2014, June ICANN published the recommendation for status codes, the "Extensible Provisioning Protocol (EPP) domain status codes"[\[16\]](https://en.wikipedia.org/wiki/WHOIS#cite_note-16)
 > 
