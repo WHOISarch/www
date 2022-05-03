@@ -2,6 +2,10 @@
 
 [WHOIS History | Check domain history ownership | WhoisXML API](https://whois-history.whoisxmlapi.com/)
 
+
+https://emailverification.whoisxmlapi.com/lookup-report/
+
+
 ## WHOIS history tools to check domain name ownership history
 
 We designed our WHOIS history product line for easy and varied access to our archive of 14.3B+ WHOIS records with domain history ownership data via Lookup, API calls, or Database Download.
